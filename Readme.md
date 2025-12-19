@@ -1,5 +1,3 @@
-Of course. Here is a README file created from the provided presentation.
-
 ---
 
 # Project: Faster Diffusion - Rethinking the Role of the Encoder for Diffusion Model Inference
